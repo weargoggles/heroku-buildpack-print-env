@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "print-env"
+exit 0
